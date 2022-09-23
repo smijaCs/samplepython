@@ -1,0 +1,14 @@
+.banner{
+  background-color: royalblue;
+ width:1500px;
+ height:70px;
+ align-text:center;
+
+  }
+ .banner-text{
+   top:30%;
+    left:30%;
+    right:90;
+    position:absolute;
+     transform:transform;
+    }
